@@ -1,0 +1,3 @@
+insert into customers (customer_id, name, credit_limit, region, salesman_id, price_index,warehouse) values ('30000101','DESTILERIAS UNIDAS S.A.',0000019000000.00,'DUS','D19',05,'300A0005')
+insert into customers (customer_id, name, credit_limit, region, salesman_id, price_index,warehouse) values ('30000102','DIAGEO VENEZUELA C.A.',0000999999999.23,'DUS','D19',05,'300A0005')
+insert into customers (customer_id, name, credit_limit, region, salesman_id, price_index,warehouse) values ('30000103','ACME VENEZUELA C.A.',0000999999999.00,'DUS','D19',05,'300A0005')

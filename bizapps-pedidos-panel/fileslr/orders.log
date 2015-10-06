@@ -1,0 +1,1 @@
+update orders set status='PRO',status_changed_on='06/02/2009',status_changed_at='10:37:48AM' where order_id=45000009

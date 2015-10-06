@@ -1,0 +1,21 @@
+                    Salida Tecla Impresión                             Página 1
+    5722SS1 V5R2M0 020719                S1042DHM            09/04/07  11:48:01
+    Dispositivo de Pantalla . :  QV0034
+    Usuario . . . . . . . . . :  LROSALES
+ TRABAJAR CON DATOS DE UN ARCHIVO               Modalidad  . :   CAMBIO
+ Formato  . . . :   R63500D                     Archivo  . . :   F63500DLR
+ ORDEMS: 45000012           PRODMS: 41CH503501         UNIDMS: BT
+ CSSAMS:        1           CSBOMS:                    PRDDMS:
+ PRICMS:                    DESAMS:                    BONIMS:
+ IPIDMS:                    IPIAMS:                    ICMSMS:
+ DSCVMS:                    PAYCMS:                    PRBOMS:
+ PODEMS:                    POBOMS:                    PRLIMS:
+ MARGMS:                    DSFIMS:                    DSADMS:
+ PRVTMS:                    IEPSMS:                    IVAEMS:
+ SALVMS:                    BOPLMS:                    BOMAMS:
+ BODSMS:                    BODAMS:                    BOPRMS:
+ BOIEMS:                    BOIVMS:                    BOLVMS:
+ COPMMS:                    POSCMS:                    IMDSMS:
+ SALMMS:
+ F3=Salir                F5=Renovar               F6=Seleccionar formato
+ F9=Insertar             F10=Entrada              F11=Cambiar

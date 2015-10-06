@@ -1,0 +1,3 @@
+insert into orders_status (order_date,order_id,customer_id,status_id,status_description) values ('08/06/2007',00032472,'30900374','PN','dfgdfg')
+insert into orders_status (order_date,order_id,customer_id,status_id,status_description) values ('08/06/2007',00032473,'30900385','PN','vbncvbn')
+insert into orders_status (order_date,order_id,customer_id,status_id,status_description) values ('11/06/2007',00032477,'30800001','PN','rtert')
